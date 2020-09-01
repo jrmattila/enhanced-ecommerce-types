@@ -1,0 +1,21 @@
+{
+  "name": "enhanced-ecommerce-types",
+  "version": "0.0.1",
+  "description": "Types for enhanced ecommerce based on Google's official documentation",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joonas Mattila",
+  "license": "MIT",
+  "keywords": [
+    "analytics",
+    "gtm",
+    "google",
+    "enhanced",
+    "ecommerce",
+    "tag-manager",
+    "google-tag-manager"
+  ],
+  "dependencies": {}
+}

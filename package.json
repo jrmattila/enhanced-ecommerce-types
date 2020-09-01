@@ -8,6 +8,10 @@
   },
   "author": "Joonas Mattila",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrmattila/enhanced-ecommerce-types.git"
+  },
   "keywords": [
     "analytics",
     "gtm",
